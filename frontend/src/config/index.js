@@ -1,6 +1,6 @@
 const config = {
   prod: {
-    API_BASE: 'http://localhost:8080/api',
+    API_BASE: 'https://todo-list-backend-pearl.vercel.app/api',
   },
   test: {
     API_BASE: 'http://localhost:8080/api',
