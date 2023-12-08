@@ -25,7 +25,7 @@ N - Node js </br>
 ## Technologies Used
 
 <ul>
-  <li><strong>Frontend:</strong> </li>
+  <li><strong>Frontend:</strong> React, Redux, React Query, Formik, Chakra UI</li>
   <li><strong>Backend:</strong> Node.js, Express.js, MongoDB, Mongoose</li>
   <li><strong>Authentication:</strong> JSON Web Tokens (JWT), bcrypt</li>
   <li><strong>Deployment:</strong> Vercel</li>
